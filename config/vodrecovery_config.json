@@ -1,7 +1,7 @@
 {
   "DIRECTORIES": {
-    "DEFAULT_DIRECTORY": "~/Documents/",
-    "DOWNLOAD_DIRECTORY": "~/Documents/"
+    "DEFAULT_DIRECTORY": "/content/",
+    "DOWNLOAD_DIRECTORY": "/content/"
   },
   "REQUESTS": {
     "MAX_REQUEST_SIZE": 100,
